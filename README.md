@@ -9,4 +9,4 @@ pip3 install requests syncio re urllib BeautifulSoup4 faker pyppeteer shutil dat
 python3 91_spider.py
 ```
 # 关于
-本脚本仅适用于学习爬虫，大部分代码出自jw-star/91pornBot
+本脚本仅适用于学习爬虫，大部分代码出自jw-star/91pornBot，仅保留本地化下载功能。
